@@ -1,0 +1,27 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "logo": "http(s)://播放器图标/img/logo.png",
+    "name": "Diy Player 播放器名称",
+    "share_qrcode": "http(s)://播放器二维码/img/ma.jpg",
+    "biaoti": "Welcome to use 播放器介绍",
+	"onimg": "http(s)://播放器影片无图引用/img/404.jpg",
+	"botu": "http(s)://播放器开始图广告/img/ad4.jpg",
+	"bomiao": "25 播放器开头广告跳过秒",
+	"weburl": "http(s)://播放器网站地址"
+  },
+  "tanchuang":[
+    {
+	 "img": "http(s)://播放器打开弹出广告/img/ad5.jpg",
+     "url": "https://google.com"
+    }	
+	],    
+  "guanggao": [
+    {
+      "img": "http(s)://播放器横幅顶部广告/img/ad1.jpg",
+      "url": "https://google.com"
+    }
+  
+
+ // 更多开发内容代码.......
